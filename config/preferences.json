@@ -1,0 +1,23 @@
+{
+  "bookmark_bar": {
+    "show_on_all_tabs": false
+  },
+  "brave": {
+    "new_tab_page": {
+      "background": {
+        "random": false,
+        "selected_value": "thumbbig-721169.png",
+        "type": "custom_image"
+      },
+      "custom_background_image_list": [
+        "thumbbig-721169.png"
+      ],
+      "show_brave_news": false,
+      "show_brave_vpn": false,
+      "show_clock": false,
+      "show_rewards": false,
+      "show_stats": false,
+      "show_together": false
+    }
+  }
+}

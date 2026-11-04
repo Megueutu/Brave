@@ -1,0 +1,10 @@
+# line endings and binary handling
+* text=auto
+*.json text eol=lf
+*.png binary
+
+# language stats: show only json
+* linguist-detectable=false
+*.json linguist-detectable=true
+Bookmarks linguist-language=JSON
+Bookmarks linguist-detectable=true
